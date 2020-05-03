@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A51499DA245E2F98007FCEF3 /* Quicksand-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A51499D9245E2F92007FCEF3 /* Quicksand-VariableFont_wght.ttf */; };
 		A53D34A1245CBC9F00558329 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A53D34A0245CBC9F00558329 /* AppDelegate.swift */; };
 		A53D34A3245CBC9F00558329 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A53D34A2245CBC9F00558329 /* ViewController.swift */; };
 		A53D34A6245CBC9F00558329 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A53D34A4245CBC9F00558329 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A51499D9245E2F92007FCEF3 /* Quicksand-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Quicksand-VariableFont_wght.ttf"; sourceTree = SOURCE_ROOT; };
 		A53D349D245CBC9F00558329 /* DiceIos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DiceIos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A53D34A0245CBC9F00558329 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A53D34A2245CBC9F00558329 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		A53D349F245CBC9F00558329 /* DiceIos */ = {
 			isa = PBXGroup;
 			children = (
+				A51499D9245E2F92007FCEF3 /* Quicksand-VariableFont_wght.ttf */,
 				A53D34A0245CBC9F00558329 /* AppDelegate.swift */,
 				A53D34A2245CBC9F00558329 /* ViewController.swift */,
 				A53D34A4245CBC9F00558329 /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A53D34AB245CBCA100558329 /* LaunchScreen.storyboard in Resources */,
+				A51499DA245E2F98007FCEF3 /* Quicksand-VariableFont_wght.ttf in Resources */,
 				A53D34A8245CBCA100558329 /* Assets.xcassets in Resources */,
 				A53D34A6245CBC9F00558329 /* Main.storyboard in Resources */,
 			);
